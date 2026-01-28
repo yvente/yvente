@@ -10,4 +10,4 @@ It's nice to meet you!
   - Privacy-first design with permissioned file access
   - *Coming soon for macOS*
 
-- **[Markflow](https://markflow.tech/)** - A high-quality Markdown converter that supports exporting Markdown to PDF, Word, and images.
+- **[Markflow](https://markflow.tech/)** - A modern Markdown editor with real-time preview. Export to PDF, Word, HTML, PNG/JPEG/SVG images, Excel/CSV, and RTF. Features LaTeX math, Mermaid diagrams, code highlighting, and document sharing.
