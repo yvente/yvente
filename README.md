@@ -2,19 +2,12 @@
 
 It's nice to meet you!
 
-[Markflow](https://markflow.tech/)：Markflow is a high-quality Markdown converter that supports exporting Markdown to PDF, Word, and images.；
+### 🚀 Projects
 
-<!--
-**yvente/yvente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **[Coolwork.ai](https://coolwork.ai/)** - Your AI partner, right where you work.
+  - Native macOS AI client supporting OpenAI, Claude, Gemini, DeepSeek, GLM
+  - 43 built-in tools: file management, email, calendar, OCR, Excel, web search
+  - Privacy-first design with permissioned file access
+  - *Coming soon for macOS*
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Markflow](https://markflow.tech/)** - A high-quality Markdown converter that supports exporting Markdown to PDF, Word, and images.
